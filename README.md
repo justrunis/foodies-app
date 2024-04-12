@@ -16,6 +16,7 @@ The Next.js Foodies App is a web application built with Next.js, a React framewo
 
 1. Clone the repository: `git clone https://github.com/your-username/foodies-app.git`
 2. Install dependencies: `npm install`
+3. Create a SQLite database by running `node initdb.js` command (this will also populate it with some data)
 
 ## Usage
 
